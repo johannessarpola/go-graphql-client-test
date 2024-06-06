@@ -1,4 +1,3 @@
 api:
-  key: "secret_key"
-  address: "http://localhost:8080"
-port: 8090
+  key: "api_key"
+  address: "http://localhost:4000"
